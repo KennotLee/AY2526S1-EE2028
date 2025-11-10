@@ -1,0 +1,2 @@
+../Core/Src/DipSwitch.c:11:9:DS_Read	24	static
+../Core/Src/DipSwitch.c:20:9:DS_GetPos	24	static

@@ -1,0 +1,5 @@
+../Core/Src/MotionLite.c:15:21:v3mag	1
+../Core/Src/MotionLite.c:23:6:motionlite_init	2
+../Core/Src/MotionLite.c:35:6:motionlite_set_thresholds	4
+../Core/Src/MotionLite.c:43:6:motionlite_tick	5
+../Core/Src/MotionLite.c:71:6:motionlite_get_last_metrics	2

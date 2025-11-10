@@ -1,0 +1,6 @@
+../Core/Src/buzzer.c:13:6:Buzzer_Init	1
+../Core/Src/buzzer.c:45:6:Buzzer_Tone	3
+../Core/Src/buzzer.c:60:6:Buzzer_ToneDuty	6
+../Core/Src/buzzer.c:79:6:Buzzer_Stop	1
+../Core/Src/buzzer.c:84:6:Buzzer_Beep	1
+../Core/Src/buzzer.c:91:6:CheckBuzzer	2
